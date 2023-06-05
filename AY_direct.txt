@@ -1,0 +1,23 @@
+# 直连列表
+# 科研
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-KEYWORD,elsevier
+DOMAIN-KEYWORD,clarivate
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,easyscholar.cc
+DOMAIN-KEYWORD,webofscience
+DOMAIN-KEYWORD,webofknowledge
+DOMAIN-SUFFIX,worldscientific.com
+# 程序
+PROCESS-NAME,DownloadSDKServer.exe
+PROCESS-NAME,Quicker.exe
+# 其他
+DOMAIN-SUFFIX,teracloud.com
+DOMAIN-SUFFIX,clash.razord.top
+DOMAIN-SUFFIX,yacd.haishan.me
+DOMAIN-SUFFIX,b23.tv
+# 
+DOMAIN,oth.eve.mdt.qq.com
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,sdkconfig.ad.xiaomi.com
+DOMAIN-SUFFIX,biliapi.com
