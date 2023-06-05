@@ -27,6 +27,11 @@ jobs:
           echo "telegram_cidr=https://raw.githubusercontent.com/Loyalsoldier/geoip/release/text/telegram.txt" >> $GITHUB_ENV
         shell: bash
 
+      - name: Checkout the main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
       - name: Generate icloud.txt file
         run: |
           echo "# icloud" > icloud.txt
@@ -87,6 +92,7 @@ jobs:
       - name: Git push assets to "release" branch
         run: |
           cd publish || exit 1
+          find . -type f ! -name '*.txt' -delete
           git init
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
