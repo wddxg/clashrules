@@ -1,0 +1,49 @@
+# clash_config_start
+<<:
+  mixed-port: 7890
+  # 本地混合代理(http和socks5合并）端口
+  allow-lan: true
+  # 允许局域网连接(false/true)
+  bind-address:
+    '*'
+  mode: rule
+  log-level: info
+  ipv6: true
+  external-controller: '127.0.0.1:9090'
+  dns:
+    enable: true
+    listen: '0.0.0.0:53'
+    ipv6: true
+    default-nameserver: # 解析非IP的dns用的dns服务器,只支持纯IP
+      - 223.5.5.5
+      - 119.29.29.29
+      - 114.114.114.114
+    enhanced-mode: fake-ip
+    fake-ip-range: '198.18.0.1/16'
+    fake-ip-filter:
+      - '*.lan'
+      - '+.stun.*.*'
+      - '+.stun.*.*.*'
+      - '+.stun.*.*.*.*'
+      - '+.stun.*.*.*.*.*'
+      - 'lens.l.google.com'
+      - '*.n.n.srv.nintendo.net'
+      - 'xbox.*.*.microsoft.com'
+      - '*.*.xboxlive.com'
+      - '*.msftncsi.com'
+      - '*.msftconnecttest.com'
+      - '*.mcdn.bilivideo.cn'
+      - '*.ptlogin2.qq.com'
+      - 'WORKGROUP'
+    nameserver:
+      - 'https://dns.alidns.com/dns-query'
+      - 'https://223.5.5.5/dns-query'
+      - 'https://1.12.12.12/dns-query'
+  tun:
+    enable: true
+    stack: gvisor
+    auto-route: true
+    auto-detect-interface: true
+    dns-hijack:
+      - 'any:53'
+# clash_config_end
