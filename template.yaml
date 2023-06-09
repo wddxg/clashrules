@@ -18,6 +18,20 @@
       - 223.5.5.5
       - 119.29.29.29
       - 114.114.114.114
+    nameserver:
+      - 'https://dns.alidns.com/dns-query'
+      - 'https://223.5.5.5/dns-query'
+      - 'https://1.12.12.12/dns-query'
+    fallback:
+      - 'https://dns.cloudflare.com/dns-query'
+      - 'https://doh.dns.sb/dns-query'
+      - 'https://dns.twnic.tw/dns-query'
+      - 'tls://8.8.4.4:853'
+    fallback-filter:
+      geoip: true
+      ipcidr: 
+        - '240.0.0.0/4'
+        - '0.0.0.0/32'
     enhanced-mode: fake-ip
     fake-ip-range: '198.18.0.1/16'
     fake-ip-filter:
@@ -35,10 +49,6 @@
       - '*.mcdn.bilivideo.cn'
       - '*.ptlogin2.qq.com'
       - 'WORKGROUP'
-    nameserver:
-      - 'https://dns.alidns.com/dns-query'
-      - 'https://223.5.5.5/dns-query'
-      - 'https://1.12.12.12/dns-query'
   tun:
     enable: true
     stack: gvisor
