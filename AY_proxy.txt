@@ -1,4 +1,5 @@
 # 代理列表
+PROCESS-NAME,Telegram.exe
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,railway.app
 DOMAIN-SUFFIX,vercel.app
