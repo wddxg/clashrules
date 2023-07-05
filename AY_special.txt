@@ -1,38 +1,28 @@
-# 特殊处理Special treatment
-# NewBing https://rules.kr328.app/bing.yaml
-DOMAIN-SUFFIX,bibg.com
-DOMAIN-SUFFIX,biing.com
-DOMAIN-SUFFIX,binads.com
-DOMAIN-SUFFIX,binb.com
-DOMAIN-SUFFIX,binf.com
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.list
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bing/Bing.list
+DOMAIN,cdn.auth0.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing123.com
-DOMAIN-SUFFIX,bing135.com
-DOMAIN-SUFFIX,bing4.com
-DOMAIN-SUFFIX,bingads.com
-DOMAIN-SUFFIX,bingagencyawards.com
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,bingapistatistics.com
-DOMAIN-SUFFIX,binginternal.com
-DOMAIN-SUFFIX,bingit.net
-DOMAIN-SUFFIX,bingiton.com
-DOMAIN-SUFFIX,bingj.com
-DOMAIN-SUFFIX,bingpix.com
-DOMAIN-SUFFIX,bingpk.com
-DOMAIN-SUFFIX,bings.com
-DOMAIN-SUFFIX,bingsandbox.com
-DOMAIN-SUFFIX,bingtoolbar.com
-DOMAIN-SUFFIX,bingtranslator.com
-DOMAIN-SUFFIX,bingvisualsearch.com
-DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bluehatnights.com
 DOMAIN-SUFFIX,dictate.ms
+DOMAIN-SUFFIX,ditu.live.com
+DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,masalladeloslimites.com
 DOMAIN-SUFFIX,microsoft-give.com
 DOMAIN-SUFFIX,microsoftcloudsummit.com
-DOMAIN-SUFFIX,microsoftdiplomados.com
 DOMAIN-SUFFIX,microsoftdiplomados.com
 DOMAIN-SUFFIX,microsoftlatamholiday.com
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
@@ -42,19 +32,3 @@ DOMAIN-SUFFIX,office365love.com
 DOMAIN-SUFFIX,office365tw.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
-
-
-# OpenAI https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/OpenAI/OpenAI.list
-# OpenAI https://github.com/v2fly/domain-list-community/blob/master/data/openai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN,cdn.auth0.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openaicom.imgix.net
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,identrust.com
-
