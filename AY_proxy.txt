@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,unity3dusercontent.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,googlesyndication.com
