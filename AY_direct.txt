@@ -3,6 +3,7 @@
 PROCESS-NAME,DownloadSDKServer.exe
 PROCESS-NAME,Quicker.exe
 DOMAIN-SUFFIX,teracloud.com
+DOMAIN-SUFFIX,teracloud.com
 DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,yacd.haishan.me
 DOMAIN-KEYWORD,cnki
@@ -31,3 +32,4 @@ DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN,sdkconfig.ad.xiaomi.com
 DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,misakaf.org
