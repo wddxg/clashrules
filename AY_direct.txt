@@ -28,8 +28,5 @@ DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,taylorandfrancis.com
 DOMAIN-SUFFIX,taylorfrancis.com
 DOMAIN-SUFFIX,zotero.org
-DOMAIN,oth.eve.mdt.qq.com
-DOMAIN,otheve.beacon.qq.com
-DOMAIN,sdkconfig.ad.xiaomi.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,misakaf.org
