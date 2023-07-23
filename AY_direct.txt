@@ -4,6 +4,7 @@ PROCESS-NAME,DownloadSDKServer.exe
 PROCESS-NAME,Quicker.exe
 PROCESS-NAME,SppExtComObj.Exe
 PROCESS-NAME,QQ.exe
+PROCESS-NAME,baidunetdisk.exe
 DOMAIN-SUFFIX,teracloud.com
 DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,yacd.haishan.me
