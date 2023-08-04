@@ -14,13 +14,13 @@ DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,webofscience
 DOMAIN-KEYWORD,webofknowledge
-DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,ascelibrary.org
 DOMAIN-SUFFIX,crossref.org
 DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,easyscholar.cc
 DOMAIN-SUFFIX,frontiersin.org
-DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,hindawi.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springerlink.com
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,tandf.co.uk
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,taylorandfrancis.com
 DOMAIN-SUFFIX,taylorfrancis.com
+DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,misakaf.org
