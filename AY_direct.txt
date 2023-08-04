@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,yacd.haishan.me
 DOMAIN-KEYWORD,cnki
 DOMAIN-KEYWORD,clarivate
 DOMAIN-KEYWORD,elsevier
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,webofscience
 DOMAIN-KEYWORD,webofknowledge
@@ -22,6 +24,9 @@ DOMAIN-SUFFIX,els-cdn.com
 DOMAIN-SUFFIX,easyscholar.cc
 DOMAIN-SUFFIX,frontiersin.org
 DOMAIN-SUFFIX,hindawi.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,scienceconnect.io
+DOMAIN-SUFFIX,sci.bban.top
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springerlink.com
 DOMAIN-SUFFIX,springernature.com
