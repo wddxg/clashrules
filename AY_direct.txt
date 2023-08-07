@@ -37,6 +37,5 @@ DOMAIN-SUFFIX,taylorfrancis.com
 DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,misakaf.org
 IP-CIDR,10.26.0.0/16
 IP-CIDR,10.21.0.0/16
