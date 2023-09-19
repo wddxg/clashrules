@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,snapgametech.com
 DOMAIN-SUFFIX,bytegsdk.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,unity3dusercontent.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,braze.com
