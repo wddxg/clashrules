@@ -670,6 +670,40 @@ CCTV国防军事,https://epg.pw/stream/fed00977626c6c76927fe5cc2b10f6445704f9fe0
 重庆卫视,https://epg.pw/stream/ce5bab1157fcf719e9b76263d1c2309029eef3bcbadc2d47b9db2cbbbf9db99f.ctv
 重庆卫视,https://epg.pw/stream/d91a8fab4efc2e9cc720dd1a077c914dd5bbed87088e76a94c10a9a802e89f70.ctv
 
+陕西,#genre#
+陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
+陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
+陕西生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
+陕西影视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
+陕西公共,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
+陕西乐家购物,,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226362/index.m3u8
+陕西体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
+陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
+西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+西安白鸽都市,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+西安文化影视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+西安丝路频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
+西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+汉中-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
+汉中-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
+汉中-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+LBRTV,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+略阳新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
+咸阳新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+延安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226374/index.m3u8
+延安公共频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226375/index.m3u8
+渭南新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
+榆林一套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
+商洛电视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+铜川新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
+铜川文化娱乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
+宝鸡新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+宝鸡经济生活,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+安康一套,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+安塞电视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226388/index.m3u8
+宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
+
 其他,#genre#
 celestial classic movie,https://epg.pw/stream/a99d94cf909403d7fb9d745cdebc3dd3fa9137da7e6feeb00d3456feafacd3b9.m3u8
 cgtn español (576p),https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8
