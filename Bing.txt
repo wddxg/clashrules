@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,dictate.ms
 DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,masalladeloslimites.com
+DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoft-give.com
 DOMAIN-SUFFIX,microsoftcloudsummit.com
 DOMAIN-SUFFIX,microsoftdiplomados.com
@@ -25,5 +26,6 @@ DOMAIN-SUFFIX,microsoftlatamholiday.com
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
 DOMAIN-SUFFIX,microsoftpartnersolutions.com
 DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
