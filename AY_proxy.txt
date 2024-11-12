@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,bytegsdk.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,snapgametech.com
