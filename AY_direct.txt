@@ -6,6 +6,7 @@ PROCESS-NAME,Quicker.exe
 PROCESS-NAME,SppExtComObj.Exe
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,baidunetdisk.exe
+DOMAIN-SUFFIX,kingfisher-chimaera.ts.net
 DOMAIN-SUFFIX,proxyninja.org
 DOMAIN-SUFFIX,teracloud.com
 DOMAIN-SUFFIX,clash.razord.top
