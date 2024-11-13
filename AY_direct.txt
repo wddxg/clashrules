@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,teracloud.com
 DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,yacd.haishan.me
 DOMAIN-SUFFIX,masuit.net
+DOMAIN-KEYWORD,kingfisher-chimaera
 DOMAIN-KEYWORD,cnki
 DOMAIN-KEYWORD,clarivate
 DOMAIN-KEYWORD,elsevier
